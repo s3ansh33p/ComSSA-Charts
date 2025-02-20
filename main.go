@@ -50,7 +50,7 @@ func main() {
   charts.AddTheme("custom", charts.ThemeOption{
     IsDarkMode: true,
     AxisStrokeColor: charts.Color{ R: 0, G: 0, B: 0, A: 0 },
-    AxisSplitLineColor: charts.Color{ R: 72, G: 71, B: 83, A: 255 },
+    AxisSplitLineColor: charts.Color{ R: 114, G: 130, B: 185, A: 255 },
     BackgroundColor: charts.Color{ R: 0, G: 0, B: 0, A: 0 },
     TextColor: charts.Color{ R: 238, G: 238, B: 238, A: 255 },
     SeriesColors: []charts.Color{
